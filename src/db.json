@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "pratik",
+      "email": "pratik@test",
+      "password": "Pratik@1996",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@test",
+      "password": "Peter@1997",
+      "id": 2
+    },
+    {
+      "email": "pratik@gmail.com",
+      "password": "Pratik",
+      "name": "Pratik",
+      "id": 3
+    },
+    {
+      "email": "sam@gmail.com",
+      "password": "SAm123",
+      "name": "Sam",
+      "id": 4
+    },
+    {
+      "email": "nia@test.com",
+      "password": "nia",
+      "name": "Nia Saxena",
+      "id": 5
+    },
+    {
+      "email": "samyak.test@.com",
+      "password": "samyak",
+      "name": "samyak",
+      "id": 6
+    }
+  ],
+  "resturants": [
+    {
+      "name": "MCD",
+      "address": "gggg",
+      "contact": "9192344",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "contact": "889994",
+      "address": "thjlhl"
+    },
+    {
+      "id": 4,
+      "name": "Dominos",
+      "contact": "1555",
+      "address": "sdsghth"
+    },
+    {
+      "id": 5,
+      "name": "KFC",
+      "contact": "1222555",
+      "address": "sdsjyhkjjhghth"
+    },
+    {
+      "name": "Starbucks",
+      "address": "asdasd",
+      "contact": "488686",
+      "id": 6
+    },
+    {
+      "name": "Mantra",
+      "address": "asdas",
+      "contact": "646468",
+      "id": 7
+    },
+    {
+      "name": "Burger King",
+      "address": "gfhfgh",
+      "contact": "919212291",
+      "id": 8
+    }
+  ]
+}
